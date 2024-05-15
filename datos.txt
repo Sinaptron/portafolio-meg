@@ -1,0 +1,18 @@
+version 1
+se dejo unicamente coon lenguajes html, css y javascript
+
+version 2
+pagina de portafolio se separo por categorias, adicionando 5 paginas
+
+version 3 pendientes a realizar.....
+depurar el javascript, para quitar codigo muerto
+actualizar la informacion
+
+
+diseño web ui/ux paginas sitios web html css javascript, office windows linux
+
+
+
+
+
+
